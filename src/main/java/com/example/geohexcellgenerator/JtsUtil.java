@@ -1,5 +1,7 @@
 package com.example.geohexcellgenerator;
 
+import com.example.model.GeoJsonBoundary;
+import com.example.model.GeoJsonGeometry;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.xb.logger.XBLogger;

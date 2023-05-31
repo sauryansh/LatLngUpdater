@@ -1,5 +1,7 @@
 package com.example.latlngupdater;
 
+import com.example.model.CityDetails;
+import com.example.model.HubDetails;
 import com.google.gson.*;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;

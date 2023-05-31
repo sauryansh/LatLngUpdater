@@ -1,5 +1,5 @@
 package com.example.geohexcellgenerator;
-
+import com.example.model.GeoJsonGeometry;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
