@@ -1,0 +1,37 @@
+[
+  {
+    "_id": {
+      "$oid": "6470d9403e54dd2a87a63514"
+    },
+    "HubID": 6476,
+    "HubName": "IXZ/HUB",
+    "AreaCode": "IXZ/HUB",
+    "CenterType": "SC",
+    "hubzonename": "East",
+    "Latitude": 11.669635,
+    "Longitude": 92.729774,
+    "cityname": "Port Blair",
+    "statename": "ANDAMAN AND NICOBAR",
+    "country": "India",
+    "pincode": 744102,
+    "Status": "Approved",
+    "IsActive": true
+  },
+  {
+    "_id": {
+      "$oid": "6470d9403e54dd2a87a63515"
+    },
+    "HubID": 6724,
+    "HubName": "Bambooflat",
+    "CenterType": "SC",
+    "hubzonename": "East",
+    "Latitude": 11.8189,
+    "Longitude": 92.7481,
+    "cityname": "Port Blair",
+    "statename": "ANDAMAN AND NICOBAR",
+    "country": "India",
+    "pincode": 744107,
+    "Status": "Approved",
+    "IsActive": true
+  }
+]
